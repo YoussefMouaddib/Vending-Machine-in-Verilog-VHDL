@@ -1,6 +1,6 @@
-**Vending Machine in Verilog & VHDL**
+<h1 style="20: 36px;">Vending Machine in Verilog & VHDL</h1>
 
-
+![alt text](/Users/youssefmouaddib/Documents/screenshot1.png)
 This project implements a simple digital logic vending machine using Verilog and DigitalJS. 
 
 This vending machine project could be useful for learning digital logic, Verilog, and DigitalJS. 
